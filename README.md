@@ -2,7 +2,7 @@
 
 - 🎓 I’m a B.Tech student at IIIT Nagpur majoring in Electronics and Communication Engineering.
 - 💻 I’m passionate about **software development**, especially in full-stack web development.
-- 🔧 My tech stack includes **C++, C, tailwind, JavaScript, Typescript, React, Next.js, Node.js, MongoDB,SQL beginner level, Express.js**, and more.
+- 🔧 My tech stack includes **C++, C, Tailwind, JavaScript, Typescript, React, Next.js, Node.js, MongoDB,SQL beginner level, Express.js**, and more.
 - 🌱 Currently enhancing my skills in **backend development** and real-time web applications.
 - 🚀 I’m actively seeking an **SDE internship** to apply and grow my technical expertise.
 - 🤝 I’m looking to collaborate on impactful **open-source projects** and innovative web apps.
